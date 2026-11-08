@@ -1,0 +1,7 @@
+.search-result-individual{
+    padding: 10px 20px;
+}
+
+.search-result-individual:hover{
+    background-color: aliceblue;
+}
